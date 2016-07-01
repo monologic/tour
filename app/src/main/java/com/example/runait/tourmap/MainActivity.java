@@ -1,4 +1,4 @@
-package com.example.runait.tourmaps;
+package com.example.runait.tourmap;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

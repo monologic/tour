@@ -1,4 +1,4 @@
-package com.example.runait.tourmaps;
+package com.example.runait.tourmap;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.runait.tourmaps;
+package com.example.runait.tourmap;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
