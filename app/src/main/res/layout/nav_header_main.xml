@@ -15,7 +15,7 @@
         android:id="@+id/imageView"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:src="@drawable/bird" />
+        android:src="@drawable/llama2" />
 
     <TextView
         android:layout_width="match_parent"
